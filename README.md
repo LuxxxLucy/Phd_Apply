@@ -8,18 +8,20 @@
 
 > hope everyone got good results on admissions of graduate schools
 
+## Advice on cosidering graduate school
+
+* [Advice for Undergraduates Considering Graduate School](http://polaris.gseis.ucla.edu/pagre/grad-school.html) by [Phil Agre](http://polaris.gseis.ucla.edu/pagre/index.html) UCLA
+
 ## advice for phd admissions
 
-* [ tips on apply guaduate school](http://pgbovine.net/grad-school-app-tips.htm)
+* [ tips on apply guaduate school](http://pgbovine.net/grad-school-app-tips.htm) by 
 
 * [A Five-Minute Guide to Ph.D. Program Applications](http://pgbovine.net/PhD-application-tips.htm)
 
   > all by __Prof. Philip Guo__ in UCSD, the first is written in 2006, latter in 2016.
 
 
-* [Advice for Foreign Students Wishing to Pursue Graduate Study in Computer Science at UCSC](https://users.soe.ucsc.edu/~ejw/advice/)
-
-> __Jim Whitehead__ Prof in UCSC 
+* [Advice for Foreign Students Wishing to Pursue Graduate Study in Computer Science at UCSC](https://users.soe.ucsc.edu/~ejw/advice/) by __Jim Whitehead__ Prof in UCSC 
 
 * [FAQ: Applying to Graduate School for Computer Science](http://jxyzabc.blogspot.hk/2012/10/faq-applying-to-graduate-school-for.html)
 
@@ -45,6 +47,7 @@
 
   ​	
 
-## Experience of PhD
+## Experience of PhD career
 
-http://pgbovine.net/PhD-memoir.htm
+* [PhD memoir ](http://pgbovine.net/PhD-memoir.htm) by Prof. Philip Guo in UCSD
+* [“So long, and thanks for the Ph.D.!”](http://www.cs.unc.edu/~azuma/hitch4.html) by Ronald T. Azuma, original version 1997, last revised in 2017
