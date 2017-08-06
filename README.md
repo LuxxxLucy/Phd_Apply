@@ -22,8 +22,9 @@
 
 
 * [Advice for Foreign Students Wishing to Pursue Graduate Study in Computer Science at UCSC](https://users.soe.ucsc.edu/~ejw/advice/) by __Jim Whitehead__ Prof in UCSC 
-
 * [FAQ: Applying to Graduate School for Computer Science](http://jxyzabc.blogspot.hk/2012/10/faq-applying-to-graduate-school-for.html)
+* [Applying to Ph.D. Programs in Computer Science](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) by Mor Harchol-Balter CMU
+* [HOWTO: Get into grad school for science, engineering, math and computer science](http://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/) by Matt Might, University of Alabama at Birmingham
 
 ## advice for writing and communicataing with Profs
 
